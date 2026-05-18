@@ -1,1 +1,2 @@
-# mst_group_strukdat
+# Minimum Spanning Tree (MST)_Data Structure Group K
+---
